@@ -17,7 +17,7 @@ const shuffle = (arr) => arr.slice().sort(() => Math.random() - 0.5);
 const randomPick = (arr, n) => shuffle(arr).slice(0, n);
 const randomDate = (start, end) => new Date(start.getTime() + Math.random() * (end.getTime() - start.getTime()));
 const randomTextColor = () => Math.random() < 0.5 ? '#000' : '#fff';
-// Как использовать:
+// Использование:
 // randomInt(1, 100)
 // randomFloat(0, 1)
 // randomFrom(['a','b','c'])
