@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons+Outlined');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons+Round');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons+Sharp');
+@import url('https://fonts.googleapis.com/icon?family=Material+Icons+Two+Tone');
+@import url('https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.4.0/css/all.min.css');
+.material-icons,
+.material-icons-outlined,
+.material-icons-round,
+.material-icons-sharp,
+.material-icons-two-tone {
+  font-size: 24px;
+  line-height: 1;
+  display: inline-block;
+  vertical-align: middle;
+  user-select: none;
+}
+.icon-sm { font-size: 16px; }
+.icon-md { font-size: 24px; }
+.icon-lg { font-size: 32px; }
+.icon-xl { font-size: 48px; }
+.icon-2xl { font-size: 64px; }
+.icon-white  { color: #ffffff; }
+.icon-black  { color: #000000; }
+.icon-gray   { color: #888888; }
+.icon-green  { color: #00ff88; }
+.icon-red    { color: #ff3366; }
+.icon-blue   { color: #33aaff; }
+.icon-yellow { color: #ffcc33; }
+.icon-purple { color: #aa66ff; }
+.fa-sm { font-size: 0.875em; }
+.fa-lg { font-size: 1.33em; }
+.fa-2x { font-size: 2em; }
+.fa-3x { font-size: 3em; }
+.fa-4x { font-size: 4em; }
+.fa-5x { font-size: 5em; }
